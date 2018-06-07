@@ -1,2 +1,16 @@
 # road-traffic-count
-A small attempt to monitor traffic intensity in Bangladesh. 
+
+
+# Demo
+On going....
+![alt-text-2](https://github.com/hasibzunair/road-traffic-count/blob/master/images/output.gif "title-2")
+
+# Back end
+![alt-text-2](https://github.com/hasibzunair/road-traffic-count/blob/master/images/backgroundSub.gif "title-2")
+
+
+# Dependencies 
+   
+# Results
+
+# Credits 
