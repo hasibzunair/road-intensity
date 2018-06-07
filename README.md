@@ -1,6 +1,8 @@
 # road-traffic-count
 
-Will be added soon
+
+On going project!
+Codes will be added soon...
 
 # Intro
 
@@ -15,6 +17,10 @@ Will be added soon
 </p>
 
 # Dependencies 
+I have used the following dependencies.
+   * opencv
+   * numpy
+   * python 3
 
 # Processes and Filters
 A number of filter were applied in an attempt to reduce noise for better efficency. Output of those are given below.
@@ -24,8 +30,7 @@ A number of filter were applied in an attempt to reduce noise for better efficen
 | *Opening Image* |
 
 
-| ![](
-https://github.com/hasibzunair/road-traffic-count/blob/master/images/closing%20image.png)| 
+| ![](https://github.com/hasibzunair/road-traffic-count/blob/master/images/closing%20image.png)| 
 |:--:| 
 | *Closing Image* |
 
