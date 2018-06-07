@@ -19,14 +19,7 @@ Will be added soon
 # Processes and Filters
 A number of filter were applied in an attempt to reduce noise for better efficency. Output of those are given below.
 
-.center[
-
 ![My image](https://github.com/hasibzunair/road-traffic-count/blob/master/images/opening%20image.png)
-
-.caption[
-**Opening Image** Image caption
-]
-
-]
+*Opening Image* 
 
 # Credits 
