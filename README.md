@@ -1,19 +1,32 @@
 # road-traffic-count
 
+Will be added soon
 
-# Demo
-On going....
+# Intro
 
 <p align="center">
   <img src="https://github.com/hasibzunair/road-traffic-count/blob/master/images/output.gif">
 </p>
 
 # Back end
-![alt-text-2](https://github.com/hasibzunair/road-traffic-count/blob/master/images/backgroundSub.gif "title-2")
 
+<p align="center">
+  <img src="https://github.com/hasibzunair/road-traffic-count/blob/master/images/backgroundSub.gif">
+</p>
 
 # Dependencies 
-   
-# Results
+
+# Processes and Filters
+A number of filter were applied in an attempt to reduce noise for better efficency. Output of those are given below.
+
+.center[
+
+![My image](https://github.com/hasibzunair/road-traffic-count/blob/master/images/opening%20image.png)
+
+.caption[
+**Opening Image** Image caption
+]
+
+]
 
 # Credits 
