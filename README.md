@@ -24,4 +24,14 @@ A number of filter were applied in an attempt to reduce noise for better efficen
 | *Opening Image* |
 
 
+| ![](
+https://github.com/hasibzunair/road-traffic-count/blob/master/images/closing%20image.png)| 
+|:--:| 
+| *Closing Image* |
+
+
+| ![](https://github.com/hasibzunair/road-traffic-count/blob/master/images/dilation%20image.png)| 
+|:--:| 
+| *Dilation Image* |
+
 # Credits 
