@@ -5,7 +5,7 @@
 On going....
 
 <p align="center">
-  <img width="400" height="300" src="https://github.com/hasibzunair/road-traffic-count/blob/master/images/output.gif">
+  <img src="https://github.com/hasibzunair/road-traffic-count/blob/master/images/output.gif">
 </p>
 
 # Back end
