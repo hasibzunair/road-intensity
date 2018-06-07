@@ -20,8 +20,10 @@ Will be added soon
 A number of filter were applied in an attempt to reduce noise for better efficency. Output of those are given below.
 
 
+<p align="center">
 | ![](https://github.com/hasibzunair/road-traffic-count/blob/master/images/opening%20image.png) | 
 |:--:| 
 | *Opening Image* |
+</p>
 
 # Credits 
