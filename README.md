@@ -19,9 +19,9 @@ Will be added soon
 # Processes and Filters
 A number of filter were applied in an attempt to reduce noise for better efficency. Output of those are given below.
 
-
 <p align="center">
-| ![](https://github.com/hasibzunair/road-traffic-count/blob/master/images/opening%20image.png) | 
+| <img src="https://github.com/hasibzunair/road-traffic-count/blob/master/images/backgroundSub.gif">
+ | 
 |:--:| 
 | *Opening Image* |
 </p>
