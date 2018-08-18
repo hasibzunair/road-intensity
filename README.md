@@ -1,9 +1,6 @@
 # road-traffic-count-and-intensity
-
-
-On going project!
-Codes will be added soon...
-
+A traffic monitoring system in the context of Bangladesh.
+<br>
 # Intro
 
 <p align="center">
