@@ -1,11 +1,11 @@
-# road-traffic-count-and-intensity
-A traffic monitoring system in the context of Bangladesh.
-<br>
+
 ## Intro
 
 <p align="center">
   <img src="https://github.com/hasibzunair/road-traffic-count/blob/master/images/output.gif">
 </p>
+A traffic monitoring system in the context of Bangladesh.
+<br>
 
 ## Back end
 A number of filter were applied in an attempt to reduce noise for better efficency. Output of those are given below.
