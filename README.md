@@ -1,39 +1,29 @@
 # road-traffic-count-and-intensity
 A traffic monitoring system in the context of Bangladesh.
 <br>
-# Intro
+## Intro
 
 <p align="center">
   <img src="https://github.com/hasibzunair/road-traffic-count/blob/master/images/output.gif">
 </p>
 
-# Back end
+## Back end
+A number of filter were applied in an attempt to reduce noise for better efficency. Output of those are given below.
 
 <p align="center">
   <img src="https://github.com/hasibzunair/road-traffic-count/blob/master/images/backgroundSub.gif">
 </p>
 
-# Dependencies 
+## Dependencies 
 I have used the following dependencies.
    * opencv
    * numpy
    * python 3
 
-# Processes and Filters
-A number of filter were applied in an attempt to reduce noise for better efficency. Output of those are given below.
+## Output
+<p align="center">
+  <img src="/images/output.png">
+</p>
 
-| ![](https://github.com/hasibzunair/road-traffic-count/blob/master/images/opening%20image.png)| 
-|:--:| 
-| *Opening Image* |
-
-
-| ![](https://github.com/hasibzunair/road-traffic-count/blob/master/images/closing%20image.png)| 
-|:--:| 
-| *Closing Image* |
-
-
-| ![](https://github.com/hasibzunair/road-traffic-count/blob/master/images/dilation%20image.png)| 
-|:--:| 
-| *Dilation Image* |
-
-# Credits 
+# Author
+Hasib Zunair 
