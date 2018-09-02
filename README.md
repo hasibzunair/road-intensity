@@ -25,5 +25,11 @@ I have used the following dependencies.
   <img src="/images/output.png">
 </p>
 
+Yolo Implementation <br>
+<p align="center">
+  <img src="/images/yolo.png">
+</p>
+
+
 # Author
 Hasib Zunair 
