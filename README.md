@@ -20,12 +20,12 @@ I have used the following dependencies.
    * numpy
    * python 3
 
-## Output
+## Final Output
 <p align="center">
   <img src="/images/output.png">
 </p>
 
-Yolo Implementation <br>
+## Yolo Implementation <br>
 <p align="center">
   <img src="/images/yolo.png">
 </p>
