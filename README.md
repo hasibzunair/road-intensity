@@ -30,6 +30,11 @@ I have used the following dependencies.
   <img src="/images/yolo.png">
 </p>
 
+## References
+
+* [MOG Background Subtraction](https://docs.opencv.org/3.3.0/db/d5c/tutorial_py_bg_subtraction.html) - OpenCV.
+* [YOLO Object Detection](https://pjreddie.com/darknet/yolo/) - Darknet.
+
 
 # Author
 Hasib Zunair 
